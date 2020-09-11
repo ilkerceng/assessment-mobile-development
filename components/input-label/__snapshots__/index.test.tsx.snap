@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<input-label /> renders correctly 1`] = `
+<View>
+  <Text>
+     
+    test
+     
+  </Text>
+</View>
+`;
