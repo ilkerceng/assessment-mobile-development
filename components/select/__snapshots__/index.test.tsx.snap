@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> match snapshot 1`] = `
+<RNGestureHandlerButton
+  collapsable={false}
+  onGestureEvent={[Function]}
+  onGestureHandlerEvent={[Function]}
+  onGestureHandlerStateChange={[Function]}
+  onHandlerStateChange={[Function]}
+  rippleColor={0}
+  style={
+    Array [
+      Object {
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessible={true}
+    style={
+      Object {
+        "borderWidth": 1,
+        "justifyContent": "center",
+        "minHeight": 40,
+        "opacity": 1,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "padding": 3,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "flexWrap": "nowrap",
+          }
+        }
+      >
+        <Text>
+          Select...
+        </Text>
+      </View>
+      <View>
+        <Text />
+      </View>
+    </View>
+  </View>
+</RNGestureHandlerButton>
+`;
