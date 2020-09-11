@@ -1,0 +1,36 @@
+{
+    "title": "Ayarlar",
+    "controls": [
+        {
+            "type": "input",
+            "caption": "E-mail",
+            "validator": "email"
+        },
+        {
+            "type": "choice",
+            "caption": "Dil",
+            "items": {
+                "en": "English",
+                "tr": "Turkish"
+            }
+        },
+        {
+            "type": "multi",
+            "multiple": true,
+            "caption": "Filtre",
+            "items": {
+                "0": "Havuz",
+                "1": "Spor Salonu"
+            }
+        },
+        {
+            "type": "multi",
+            "multiple": true,
+            "caption": "Country",
+            "items": {
+                "0": "Havuz",
+                "1": "Spor Salonu"
+            }
+        }
+    ]
+}
