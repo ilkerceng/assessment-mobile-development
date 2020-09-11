@@ -38,5 +38,8 @@ expo android
 ```
 You should have android platform-tools in your PATH environment variable and also a virtual device to be able to run on simulator.
 
+## Demo
+- To be able to run the project on your own mobile phone, you need an expo app installed on your mobile app, then you can scan the project QR code from [here](https://expo.io/@ilkerceng/SeturMobile).
+
 ## More
 -[Setting up the development environment](https://reactnative.dev/docs/environment-setup)
