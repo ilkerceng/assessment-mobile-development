@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<text-input-form-item /> match snapshot 1`] = `
+Array [
+  <View>
+    <Text>
+       
+      E-mail
+       
+    </Text>
+  </View>,
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "gray",
+        "borderWidth": 1,
+        "height": 40,
+      }
+    }
+    type="input"
+    underlineColorAndroid="transparent"
+    value=""
+  />,
+]
+`;
