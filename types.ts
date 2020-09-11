@@ -5,13 +5,13 @@ export type RootStackParamList = {
 
 export type BottomTabParamList = {
   "Setur Site": undefined;
-  TabTwo: undefined;
+  Form: undefined;
 };
 
-export type TabOneParamList = {
-  TabOneScreen: undefined;
+export type SeturParamList = {
+  SeturScreen: undefined;
 };
 
-export type TabTwoParamList = {
-  TabTwoScreen: undefined;
+export type FormParamList = {
+  FormScreen: undefined;
 };
